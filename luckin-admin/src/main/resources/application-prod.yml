@@ -77,3 +77,12 @@ spring:
                 max-active: 8
                 # #连接池最大阻塞等待时间（使用负值表示没有限制）
                 max-wait: -1ms
+
+#微信小程序配置
+wx:
+    miniapp:
+        appid:  #微信小程序的appid
+        secret:  #微信小程序的Secret
+        token: #微信小程序消息服务器配置的token
+        aesKey: #微信小程序消息服务器配置的EncodingAESKey
+        msgDataFormat: JSON
