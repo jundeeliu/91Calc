@@ -3,7 +3,7 @@
 JDTax是一款应用于房地产行业的税费计算器小程序，适用于中介、有税费计算需求的人员。
 
 * 计算器客户端使用小程序开发、
-* 后台管理采用采用Vue、Element UI、Spring Boot。
+* 后台管理采用采用Vue、Element UI、Spring Boot、MyBatis & MyBatisPlus。
 * 安全框架采用Spring Security & Jwt。
 * 权限认证使用Jwt，支持多终端认证系统。
 * 缓存采用Redis
@@ -11,7 +11,7 @@ JDTax是一款应用于房地产行业的税费计算器小程序，适用于中
 * 支持加载动态权限菜单，多方式轻松权限控制。
 * 支持微信小程序会员功能。
 * 支持动态计算规则，采用表达式实现自定义计算公式。
-* 基于[RuoYi-Vue-Plus]（https://gitee.com/JavaLionLi/RuoYi-Vue-Plus）开发
+* 基于[RuoYi-Vue-Plus](https://gitee.com/JavaLionLi/RuoYi-Vue-Plus)开发
 
 ## 特色功能
 1.  计算字段：配置需要参与计算的字段信息
