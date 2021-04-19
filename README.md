@@ -11,7 +11,7 @@
 * 支持加载动态权限菜单，多方式轻松权限控制。
 * 支持微信小程序会员功能。
 * 支持动态计算规则，采用表达式实现自定义计算公式。
-* 基于[RuoYi-Vue-Plus](https://gitee.com/JavaLionLi/RuoYi-Vue-Plus)开发
+* 基于[RuoYi-Vue-Plus](https://gitee.com/JavaLionLi/RuoYi-Vue-Plus)、[LuckinCRM](https://luckin.xyz)开发
 
 ## 特色功能
 1.  计算字段：配置需要参与计算的字段信息
