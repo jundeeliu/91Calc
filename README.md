@@ -13,6 +13,9 @@
 * 支持动态计算规则，采用表达式实现自定义计算公式。
 * 基于[RuoYi-Vue-Plus](https://gitee.com/JavaLionLi/RuoYi-Vue-Plus)、[LuckinCRM](https://luckin.xyz)开发
 
+## 演示地址
+* [91Calc](https://91Calc.com)
+
 ## 特色功能
 1.  计算字段：配置需要参与计算的字段信息
 2.  计算项目：配置税费计算项目树，以及设置计算项目提供的字段信息，以便小程序端输入。
